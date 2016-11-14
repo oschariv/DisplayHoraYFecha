@@ -1,0 +1,8 @@
+#Ignora los archivos .class
+*.class
+
+#Ignora los archivos .ctxt
+*.ctxt
+
+#Ignora los archivos .bluej
+*.bluej
